@@ -1,5 +1,5 @@
 _repo: The-Philippine-Islands-1493-1898-Volume-48-1751-1765-Explorations-by-early-navigators-descrip__54740
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Bourne, Edward Gaylord
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '5446'
     url: http://www.gutenberg.org/2009/agents/5446
+covers:
+- cover_type: archival
+  image_path: 54740-h/images/new-cover-tn.jpg
 creator:
   editors:
   - agent_name: Blair, Emma Helen
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '2297'
     url: http://www.gutenberg.org/2009/agents/2297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54740#The-Philippine-Islands-1493-1898-Volume-48-1751-1765-Explorations-by-early-navigators-descrip_
 gutenberg_issued: '2017-05-17'
 gutenberg_type: Text
 identifiers:
